@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+yfinance
+plotly.graph_objects
+plotly.express
+warnings
